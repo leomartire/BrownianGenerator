@@ -1,6 +1,9 @@
 # BrownianGenerator
 A Java module for the generation of multidimensional Brownian motions.
 
+## Theory
+The theory behind this module can be found in the PDF report `Decomposing_the_standard_Brownian_Motion_along_the_non_normalized_Faber_Schauder_System.pdf`.
+
 ##  Usage
 This Java Toolbox is packed in a .jar archive.
 
