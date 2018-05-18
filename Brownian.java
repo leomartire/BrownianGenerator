@@ -1,12 +1,12 @@
 // Author:        Valentin Debarnot, Léo Martire.
 // Mail:          leo.martire@outlook.com
-// Description:   TODO.
-// Last modified: See file metadata.
-// Usage:         N/A.
-// Notes:         This class implements the decomposition along
+// Description:   This class implements the decomposition along
 //                the non-normalised Faber-Schauder system
 //                (often called the Lévy decomposition) of the
 //                Brownian motion.
+// Last modified: See file metadata.
+// Usage:         TODO.
+// Notes:         N/A.
 
 package BrownianGenerator;
 
