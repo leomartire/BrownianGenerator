@@ -1,11 +1,12 @@
-// Title       : Brownian.java
-// Description : This class implements the decomposition along
-//               the non-normalised Faber-Schauder system
-//               (often called the Lévy decomposition) of the
-//               Brownian motion.
-// Author      : Léo Martire.
-// Date        : 2016.
-// Notes       : None.
+// Author:        Valentin Debarnot, Léo Martire.
+// Mail:          leo.martire@outlook.com
+// Description:   TODO.
+// Last modified: See file metadata.
+// Usage:         N/A.
+// Notes:         This class implements the decomposition along
+//                the non-normalised Faber-Schauder system
+//                (often called the Lévy decomposition) of the
+//                Brownian motion.
 
 package BrownianGenerator;
 
