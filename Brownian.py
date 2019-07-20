@@ -1,5 +1,4 @@
 # Author:        Valentin Debarnot, Léo Martire.
-# Mail:          leo.martire@outlook.com
 # Description:   TODO.
 # Last modified: See file metadata.
 # Usage:         N/A.
