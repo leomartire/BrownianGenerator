@@ -1,5 +1,4 @@
 // Author:        Valentin Debarnot, Léo Martire.
-// Mail:          leo.martire@outlook.com
 // Description:   This class implements the decomposition along
 //                the non-normalised Faber-Schauder system
 //                (often called the Lévy decomposition) of the
